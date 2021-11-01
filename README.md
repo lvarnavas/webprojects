@@ -2,6 +2,6 @@
 
 
 
-Arkanoid Game - https://lvarnavas.github.io/arkanoid-game/
-Hangman Game - https://lvarnavas.github.io/hangman-game/
-Typing Game - https://lvarnavas.github.io/typing-game/
+Arkanoid Game - https://lvarnavas.github.io/arkanoid-game/ <br>
+Hangman Game - https://lvarnavas.github.io/hangman-game/ <br>
+Typing Game - https://lvarnavas.github.io/typing-game/ <br>
